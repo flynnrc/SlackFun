@@ -1,7 +1,10 @@
+
 # SlackFun
+
 Playing around with posting various things to slack from C#.
 
-1.) Follow Slack's current instructions to enable apps and obtain authorization.
-2.) Plug into any C# program that you want to Post messages from.
+I found Slack messages to be particularly useful to the team when used to enhance DevOps, CI, testing, and any type of app logging.
 
-I found Slack messages to be particularly useful when used as part of DevOps, Testing and CI, and any type of logging.
+1.) Follow Slack's current instructions to authorize 2.) Plug into any C# program that you want to Post messages from.
+
+
